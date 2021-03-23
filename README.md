@@ -6,35 +6,25 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 ### Domains
 
-* Computer Vision
-* Computational Genomics
-* NLP
+* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34
+* Computational Genomics: SpliceAI
+* NLP: attention-based sequence-to-sequence model
 
 ### Programming Languages
 
-* Python
-* MySQL
-* Bash
+* Python, MySQL, Bash
 
 ### Machine Learning Frameworks
 
-* Pytorch
-* TensorFlow
-* Keras
+* Pytorch, TensorFlow, Keras
 
 ### Data Science Tools
 
-* NumPy
-* scikit-learn
-* Pandas
-* Matplotlib
-* seaborn
+* NumPy, scikit-learn, Pandas, Matplotlib, seaborn
 
 ### Computing Software and Platforms
 
-* Pyspark
-* AWS
-* Databricks
+* Pyspark, AWS, Databricks
 
 ## Projects
 
