@@ -30,8 +30,9 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 ### [Adversarial Defense Using Generative Adversarial Networks](https://github.com/Rive-001/counterGAN)
 
-* Developed counterGAN, a generative adversarial network that denoised input adversarial images from CIFAR-10 dataset, to defend the target classifier against adversarial attacks.
-* Performed experiments with different network architectures, loss functions and denoising techniques to improve the performance of our model, increasing accuracy by up to 14%.
+* Developed a novel GAN using the CIFAR-10 dataset to defend a target classifier against adversarial attacks.
+* Benchmarked against a custom dataset to record an improvement in model accuracy by up to 14% from a
+defenceless target.
 
 
 ### [Database of eCLIP Assays for sequence comparison](https://github.com/Rive-001/DEA)
