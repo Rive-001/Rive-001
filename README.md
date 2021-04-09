@@ -6,13 +6,13 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 ### Domains
 
-* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34
 * Computational Genomics: SpliceAI
+* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34
 * NLP: attention-based sequence-to-sequence model
 
 ### Programming Languages
 
-* Python, MySQL, Bash
+* Python, MySQL, Shell scripting
 
 ### Machine Learning Frameworks
 
