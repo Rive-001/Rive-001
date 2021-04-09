@@ -32,3 +32,9 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 * Developed counterGAN, a generative adversarial network that denoised input adversarial images from CIFAR-10 dataset, to defend the target classifier against adversarial attacks.
 * Performed experiments with different network architectures, loss functions and denoising techniques to improve the performance of our model, increasing accuracy by up to 14%.
+
+
+### [Database of eCLIP Assays for sequence comparison](https://github.com/Rive-001/DEA)
+
+* Developed a pipeline using Shell scripting to extract sequences for protein binding from eCLIP assays.
+* Developed an API to enable end-users to apply our pipeline to their own data.
