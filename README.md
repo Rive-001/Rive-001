@@ -44,3 +44,9 @@ defenceless target.
 
 * Developed a pipeline using Shell scripting to extract sequences for protein binding from eCLIP assays.
 * Developed an API to enable end-users to apply our pipeline to their own data.
+
+
+### [Object detection using an open-source deep neural network](https://github.com/Rive-001/object-detection-coco)
+
+* Developed a tutorial on object detection using Pytorch to inform data science students.
+* Integrated Faster R-CNN model and OpenCV into a pipeline to perform inference on the COCO dataset
