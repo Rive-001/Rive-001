@@ -34,6 +34,11 @@ I'm interested in machine learning and data science. I've worked on machine lear
 * Benchmarked against a custom dataset to record an improvement in model accuracy by up to 14% from a
 defenceless target.
 
+### [Speech-to-text transcription using a sequence-to-sequence model](https://github.com/Rive-001/attention-based-seq2seq)
+
+* Implemented an attention-based sequence-to-sequence model from literature to predict text from speech utterances.
+* Tuned network hyperparameters to achieve an average Levenshtein distance of 26 from the ground truth.
+
 
 ### [Database of eCLIP Assays for sequence comparison](https://github.com/Rive-001/DEA)
 
