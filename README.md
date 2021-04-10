@@ -20,7 +20,7 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 ### Data Science Tools
 
-* NumPy, scikit-learn, Pandas, Matplotlib, seaborn, OPenCV, sci-kit image
+* NumPy, scikit-learn, Pandas, Matplotlib, seaborn, OpenCV, sci-kit image
 
 ### Computing Software and Platforms
 
