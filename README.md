@@ -7,7 +7,7 @@ I'm interested in machine learning and data science. I've worked on machine lear
 ### Domains
 
 * Computational Genomics: SpliceAI
-* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34
+* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34, Faster R-CNN
 * NLP: attention-based sequence-to-sequence model
 
 ### Programming Languages
@@ -20,7 +20,7 @@ I'm interested in machine learning and data science. I've worked on machine lear
 
 ### Data Science Tools
 
-* NumPy, scikit-learn, Pandas, Matplotlib, seaborn
+* NumPy, scikit-learn, Pandas, Matplotlib, seaborn, OPenCV, sci-kit image
 
 ### Computing Software and Platforms
 
