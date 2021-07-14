@@ -1,6 +1,6 @@
 # Rishi Verma
 
-I'm interested in machine learning and data science. I've worked on machine learning projects in the domains of computer vision and computational genomics. I'm in the final semester of my Masters in Computational Biology at Carnegie Mellon University and **I'm looking to work full-time as a Machine Learning Engineer/Data Scientist in an industrial setting.**
+I'm interested in machine learning and data science. I've worked on machine learning projects in the domains of computer vision and computational genomics. I've graduated from the Masters in Computational Biology program at Carnegie Mellon University and I'm working as a Data Scientist in the biotech space.
 
 ## Skills
 
