@@ -1,30 +1,6 @@
 # Rishi Verma
 
-I'm interested in machine learning and data science. I've worked on machine learning projects in the domains of computer vision and computational genomics. I've graduated from the Masters in Computational Biology program at Carnegie Mellon University and I'm working as a Data Scientist in the biotech space.
-
-## Skills
-
-### Domains
-
-* Computational Genomics: SpliceAI
-* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34, Faster R-CNN
-* NLP: attention-based sequence-to-sequence model
-
-### Programming Languages
-
-* Python, MySQL, Shell scripting
-
-### Machine Learning Frameworks
-
-* Pytorch, TensorFlow, Keras
-
-### Data Science Tools
-
-* NumPy, scikit-learn, Pandas, Matplotlib, seaborn, OpenCV, sci-kit image
-
-### Computing Software and Platforms
-
-* Pyspark, AWS, Databricks
+I'm interested in machine learning and data science. I've worked on machine learning projects in the domains of computer vision and computational genomics. I've graduated from the Masters in Computational Biology program at Carnegie Mellon University and I'm working as a Deep Learning Engineer in the biotech and robotics space.
 
 ## Projects
 
@@ -50,3 +26,27 @@ defenceless target.
 
 * Developed a tutorial on object detection using Pytorch to inform data science students.
 * Integrated Faster R-CNN model and OpenCV into a pipeline to perform inference on the COCO dataset
+
+## Skills
+
+### Domains
+
+* Computational Genomics: SpliceAI
+* Computer Vision : Generative Adversarial Networks (GANs), ResNet-34, Faster R-CNN
+* NLP: attention-based sequence-to-sequence model
+
+### Programming Languages
+
+* Python, MySQL, Shell scripting
+
+### Machine Learning Frameworks
+
+* Pytorch, TensorFlow, Keras
+
+### Data Science Tools
+
+* NumPy, scikit-learn, Pandas, Matplotlib, seaborn, OpenCV, sci-kit image
+
+### Computing Software and Platforms
+
+* Pyspark, AWS, Databricks
